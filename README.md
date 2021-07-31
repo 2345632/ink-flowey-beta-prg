@@ -1,3 +1,3 @@
 # ink-flowey-beta-prg
-ink!flowey programs
+ink!flowey
 https://scratch.mit.edu/projects/343606657/
